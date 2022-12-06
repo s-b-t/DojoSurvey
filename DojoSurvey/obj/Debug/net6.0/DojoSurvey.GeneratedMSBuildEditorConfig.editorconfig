@@ -1,0 +1,24 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DojoSurvey
+build_property.RootNamespace = DojoSurvey
+build_property.ProjectDir = /Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/dotnet-web/DojoSurvey/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/dotnet-web/DojoSurvey
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/dotnet-web/DojoSurvey/Views/DojoSurvey/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9qb1N1cnZleS9Ib21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/dotnet-web/DojoSurvey/Views/DojoSurvey/Results.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9qb1N1cnZleS9SZXN1bHRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
